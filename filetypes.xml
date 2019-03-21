@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping ext="jrl" type="PLAIN_TEXT" />
+      <mapping pattern="testzip" type="Python" />
+    </extensionMap>
+  </component>
+</application>

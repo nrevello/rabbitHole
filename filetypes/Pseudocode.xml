@@ -1,0 +1,22 @@
+<filetype binary="false" description="Pseudocode" name="Pseudocode">
+  <highlighting>
+    <options>
+      <option name="LINE_COMMENT" value="'" />
+      <option name="COMMENT_START" value="*\" />
+      <option name="COMMENT_END" value="*\" />
+      <option name="HEX_PREFIX" value="" />
+      <option name="NUM_POSTFIXES" value="" />
+      <option name="HAS_BRACES" value="true" />
+      <option name="HAS_BRACKETS" value="true" />
+      <option name="HAS_PARENS" value="true" />
+    </options>
+    <keywords keywords="add;calculate;close;display;divide;insert;multiply;open;prompt;read;subtract;then;write" ignore_case="false" />
+    <keywords2 keywords="access;activate;append;call;convert;delete;do;find;index;output;perform;print;remove" />
+    <keywords3 keywords="activation;control;function;module;procedure;program;structure;structures;xxxx" />
+    <keywords4 keywords="call;case;counter;else;endcases;endfor;endif;endwhile;entry;eof;eol;for;if;index;input;local;logic;operand;output;parameter;recurse;repeat;repetition;response;summary;until;value;variables;while" />
+  </highlighting>
+  <extensionMap>
+    <mapping pattern=".pse" />
+    <mapping pattern=".jrl" />
+  </extensionMap>
+</filetype>
